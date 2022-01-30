@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 300;
+    border-style: double;
+    padding: 3px;
+    border-radius: 30px;
+    border-width: 20px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+p {
+   font-size: 30px;
+   font-family: monospace;
+}
+
+#intro{
+    background: linear-gradient(0deg, rgba(0,122,255,1) 15%, rgba(0,255,33,1) 85%);
+}
+
+#origami1{
+   background: linear-gradient(0deg, rgba(255,0,0,1) 17%, rgba(0,122,255,1) 82%);
+   padding-top: 1%;
+}
+
+#origami2{
+  background: linear-gradient(0deg, rgba(237,255,0,1) 15%, rgba(255,0,0,1) 83%);
+  padding-top: 1%;
+}
